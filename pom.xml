@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.6.RELEASE</version>
+		<version>2.3.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.formacionbdi.springboot.app.commons</groupId>
@@ -16,7 +16,7 @@
 	<description>Proyecto que unirá todas las librearias y pojos en comun entres los proyectos</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>14</java.version>
 	</properties>
 
 	<dependencies>
